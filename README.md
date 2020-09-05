@@ -6,8 +6,7 @@ The data used contained daily power generation throughout India from Q3 2017 to 
 
 ![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/ActualVEst.PNG)
 
-![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/ActualvEstHydro.PNG)
-
 ![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/Map2.PNG)
 
+![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/ActualvEstHydro.PNG)
 
