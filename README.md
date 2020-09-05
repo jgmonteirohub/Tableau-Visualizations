@@ -4,7 +4,6 @@
 
 ![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/ActualVEst.PNG)
 ![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/ActualvEstHydro.PNG)
-![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/HydroVThermalByRegion.PNG)
-![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/Map.PNGG)
+![](https://github.com/jgmonteirohub/Tableau-Visualizations/blob/master/images/Map.PNG)
 
 
